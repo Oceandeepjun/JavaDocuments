@@ -1,3 +1,4 @@
 # JavaDocuments
 Hello github!
-anewbranch can't find the file created by master!
+Another edited here:
+Branchescan't find the file created by master before merge!
