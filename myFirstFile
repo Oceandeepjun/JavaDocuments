@@ -2,7 +2,11 @@ public class gittest{
  public static void main(String[] args){
  
   system.out.println("Hello GitHub!!")
+<<<<<<< HEAD
   Added on localPC then staged but not committed!
   Added on before staged!
+=======
+  system.out.println("Modified 16 days later！！")
+>>>>>>> c1d247f5543bbd060146927de86df0e28e586e34
  }
 }
