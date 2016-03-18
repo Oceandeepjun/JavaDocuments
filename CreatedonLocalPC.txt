@@ -3,5 +3,6 @@ blabla!
 AjunPc  edit...
 github repository edited!
 fix conflict:
-	vi (click E!) fuck!
+	vi file then (click E) add --all then commit(-a)!!
+	fuck!!
 >>>>>>> 0b1763a30320cc36a692ea89af5bce56f72dd516
