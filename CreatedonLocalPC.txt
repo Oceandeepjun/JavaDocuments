@@ -1,0 +1,14 @@
+blabla!
+<<<<<<< HEAD
+AjunPc  edit...
+github repository edited!
+fix conflict:
+	vi file then (click E) add --all then commit(-a)!!
+	fuck!!
+
+	remote "origin":
+	url=https://------needs username+passwd!
+	url=git@github.com:githubacountname/githubrepositoryname.git----SSH 
+	-------does not need username+passwd!
+
+>>>>>>> 0b1763a30320cc36a692ea89af5bce56f72dd516
